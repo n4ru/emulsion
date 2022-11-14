@@ -1,0 +1,19 @@
+{
+  "name": "emulsion",
+  "version": "1.0.0",
+  "description": "intermediate helper functions similar to foundry's cheatcodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n4ru/emulsion.git"
+  },
+  "author": "n4ru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n4ru/emulsion/issues"
+  },
+  "homepage": "https://github.com/n4ru/emulsion#readme"
+}
